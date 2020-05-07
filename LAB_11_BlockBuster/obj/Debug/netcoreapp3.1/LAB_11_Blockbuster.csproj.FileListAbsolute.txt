@@ -1,0 +1,13 @@
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\obj\Debug\netcoreapp3.1\LAB_11_Blockbuster.csproj.CoreCompileInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\obj\Debug\netcoreapp3.1\LAB_11_Blockbuster.AssemblyInfoInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\obj\Debug\netcoreapp3.1\LAB_11_Blockbuster.AssemblyInfo.cs
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\bin\Debug\netcoreapp3.1\LAB_11_Blockbuster.exe
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\bin\Debug\netcoreapp3.1\LAB_11_Blockbuster.deps.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\bin\Debug\netcoreapp3.1\LAB_11_Blockbuster.runtimeconfig.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\bin\Debug\netcoreapp3.1\LAB_11_Blockbuster.runtimeconfig.dev.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\bin\Debug\netcoreapp3.1\LAB_11_Blockbuster.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\bin\Debug\netcoreapp3.1\LAB_11_Blockbuster.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\obj\Debug\netcoreapp3.1\LAB_11_Blockbuster.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\obj\Debug\netcoreapp3.1\LAB_11_Blockbuster.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\obj\Debug\netcoreapp3.1\LAB_11_Blockbuster.genruntimeconfig.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\LAB_11_Blockbuster\LAB_11_BlockBuster\obj\Debug\netcoreapp3.1\LAB_11_Blockbuster.csprojAssemblyReference.cache
